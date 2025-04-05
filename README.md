@@ -95,7 +95,7 @@ starting from a given source node and visiting all its neighbors before moving o
 It uses a queue data structure to keep track of the nodes to be visited next. BFS is particularly useful in finding
 the shortest path in unweighted graphs, checking for connectivity between nodes.
 
-Reference: <a href="https://youtu.be/oDqjPvD54Ss?si=2plB5nhL549iMNqi" target="_blank">Bfs tutorials(Youtube)(Youtube)</a>
+Reference: <a href="https://youtu.be/oDqjPvD54Ss?si=2plB5nhL549iMNqi" target="_blank">Bfs tutorials(Youtube)</a>
 
 I was still , enthusiastic to do all the questions, part of geting  the logic for the problems is the most fun part.
 i am still figuring  out last 2 problems.I tried my level best to match  all the  exceptations assigned for the TASH#1.
