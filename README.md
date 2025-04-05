@@ -26,6 +26,7 @@ I tried several times to push the files into my github repository from terminal,
 files into my repository. you can see my repository , it is filled with demmy files in it,i was just trying.
 I watched several youtube videos, used ai to do this.
 
+<a href="https://youtu.be/bvi37IbJXS4?si=rVVlRpltmkuIiqeR" target="_blank">Pushing files to github from terminal(Youtube)</a>
 
 ## In solving mid dose problems.
 I used ready insatlled vs code in laptop  to write the codes in c language.
