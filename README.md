@@ -1,8 +1,11 @@
 <h1> mars-TASK-1</h1>
 
-## Installing ubuntu on windows.
+## Installing ubuntu and vmware on windows.
 It was very interesting task to install ubuntu on windows, i refered from youtube videos and also read 
 README file given by the club ,Through all these sources i finally got installed ubuntu os.
+
+<a href="https://youtu.be/B1tCRwkFmnA?si=yvS1Z8j8D2kOQ_7N" target="_blank">Ubuntu installation tutorials(Youtube)</a>
+<a href="https://youtu.be/CL_L6gNATP0?si=OABhfenzQXsZTdz8" target="_blank">VMware installation tutorials(Youtube)</a>
 
 
 ## How I started learning terminal.
