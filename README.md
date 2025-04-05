@@ -55,7 +55,7 @@ Gimbal lock is a situation that occurs in 3D space when using Euler angles to re
 It happens when two of the three rotation axes in a 3-axis gimbal system align,
 causing a loss of one degree of freedom in rotation.
 
-reference:<a href="https://youtu.be/zc8b2Jo7mno?si=OeacWPNaYtOUJLDY" target="_blank">What is Gimbal lock</a>
+reference:<a href="https://youtu.be/zc8b2Jo7mno?si=OeacWPNaYtOUJLDY" target="_blank">What is Gimbal lock(Youtube)</a>
 
 The Problem with Euler Angles:
 Euler angles rotate around one axis at a time (e.g., yaw → pitch → roll).
@@ -70,9 +70,39 @@ made half angled.finally by using the formula, 3D rotations  are converted to 4D
 
 conversion formula of 3-D EULER SYSTEM to 4-D QUATERNIOUS SYSTEM .
 qw = cos(ϕ/2) * cos(θ/2) * cos(ψ/2) + sin(ϕ/2) * sin(θ/2) * sin(ψ/2)
+
 qx = sin(ϕ/2) * cos(θ/2) * cos(ψ/2) - cos(ϕ/2) * sin(θ/2) * sin(ψ/2)
+
 qy = cos(ϕ/2) * sin(θ/2) * cos(ψ/2) + sin(ϕ/2) * cos(θ/2) * sin(ψ/2)
+
 qz = cos(ϕ/2) * cos(θ/2) * sin(ψ/2) - sin(ϕ/2) * sin(θ/2) * cos(ψ/2)
+
+
+### Hard Dose.
+
+#### q1:Approach
+
+It was like creating a map folled by obstacles in it. At first in put the .txt file, that has 4 obstacles positions.
+column represents the particle postion of the obstacle and row represents the obstacle presence.
+By placing the rover at the centre of the arena matrix then calculate the positions of obstacles in the arena by
+using x and y coordinate systems. then implement the 0 for obtacle and 1 for safe. by using ai i got the for BONUS part
+ question BFS is good methed to get the shortest path.
+
+ #### BSF
+ 
+Breadth-First Search (BFS) is a graph traversal algorithm used to explore nodes level by level, 
+starting from a given source node and visiting all its neighbors before moving on to the neighbors' neighbors.
+It uses a queue data structure to keep track of the nodes to be visited next. BFS is particularly useful in finding
+the shortest path in unweighted graphs, checking for connectivity between nodes.
+
+Reference: <a href="https://youtu.be/oDqjPvD54Ss?si=2plB5nhL549iMNqi" target="_blank">Bfs tutorials(Youtube)(Youtube)</a>
+
+I was still , enthusiastic to do all the questions, part of geting  the logic for the problems is the most fun part.
+i am still figuring  out last 2 problems.I tried my level best to match  all the  exceptations assigned for the TASH#1.
+Even i watched and went on to all the references that was given in the resources , Atlast i really enjoyed this Task#1.
+
+##### Thanks for this opportunity!.
+
 
 
 
