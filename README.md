@@ -3,7 +3,7 @@
 ## Installing ubuntu on windows.
 It was very interesting task to install ubuntu on windows, i refered from youtube videos and also read 
 README file given by the club ,Through all these sources i finally got installed ubuntu os.
-[See Documentation of my experience:](docs/light_dose.docx)
+[See Documentation of my experience:](light_dose.docx/light_dose.docx)
 
 ## How I started learning terminal.
 Earlier i knew some basic commands in terminal, by referring the links given in the task#1.
@@ -17,7 +17,7 @@ i completed the problems.
 Initailly i didn't have the github account,so i created new account and new repository to do that I
 got full informationthrough aiand follewed those steps to get that.
 
-<a href="https://youtu.be/RGOj5yH7evk?si=4kOZL6dJ7u6WvJij" target="_blank">git and github tutorials</a>
+<a href="https://youtu.be/RGOj5yH7evk?si=4kOZL6dJ7u6WvJij" target="_blank">git and github tutorials(Youtube)</a>
 
 
 ## Pushing the files into github 
@@ -48,14 +48,14 @@ i saw a toutube video, got a brief idea about it.i just included the morse codel
 of list and give a coe in such a way that it should compare each of them , one code bye code and decode to the 
 matching normal letter in the library.
 
-reference:<a href="https://youtu.be/D8tPkb98Fkk?si=8goNVhVYXhADC19y" target="_blank">Morse code decoding</a>
+reference:<a href="https://youtu.be/D8tPkb98Fkk?si=8goNVhVYXhADC19y" target="_blank">Morse code decoding(Yutube)</a>
 
 ### Gimbal lock
 Gimbal lock is a situation that occurs in 3D space when using Euler angles to represent orientation. 
 It happens when two of the three rotation axes in a 3-axis gimbal system align,
 causing a loss of one degree of freedom in rotation.
 
-reference:reference:<a href="https://youtu.be/zc8b2Jo7mno?si=OeacWPNaYtOUJLDY" target="_blank">Morse code decoding</a>
+reference:<a href="https://youtu.be/zc8b2Jo7mno?si=OeacWPNaYtOUJLDY" target="_blank">What is Gimbal lock</a>
 
 The Problem with Euler Angles:
 Euler angles rotate around one axis at a time (e.g., yaw → pitch → roll).
