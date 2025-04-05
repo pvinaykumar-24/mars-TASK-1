@@ -70,6 +70,7 @@ At first given degree angles are converted to radians the the they are
 made half angled.finally by using the formula, 3D rotations  are converted to 4D rotations.
 
 conversion formula of 3-D EULER SYSTEM to 4-D QUATERNIOUS SYSTEM .
+
 qw = cos(ϕ/2) * cos(θ/2) * cos(ψ/2) + sin(ϕ/2) * sin(θ/2) * sin(ψ/2)
 
 qx = sin(ϕ/2) * cos(θ/2) * cos(ψ/2) - cos(ϕ/2) * sin(θ/2) * sin(ψ/2)
