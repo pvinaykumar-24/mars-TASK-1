@@ -3,13 +3,14 @@
 ## Installing ubuntu on windows.
 It was very interesting task to install ubuntu on windows, i refered from youtube videos and also read 
 README file given by the club ,Through all these sources i finally got installed ubuntu os.
-[See Documentation of my experience:](light_dose.docx)
+
 
 ## How I started learning terminal.
 Earlier i knew some basic commands in terminal, by referring the links given in the task#1.
 I went through all the commands and tried to promt in terminal and learnt bash language basic
 creating sh files to run those commands.For the light dose questions,using bash language
 i completed the problems.
+[See Documentation of my experience:](light_dose.docx)
 
 
 
